@@ -2,7 +2,7 @@
 
 I’m currently learning programming and exploring various languages and technologies.
 
-![code]((https://wakatime.com/share/@dd5e1faf-83ce-4d2f-8f25-ebf7390ba005/e475975b-2369-47e3-acd0-c26684a21ff5.svg))
+![code](https://wakatime.com/share/@dd5e1faf-83ce-4d2f-8f25-ebf7390ba005/e475975b-2369-47e3-acd0-c26684a21ff5.svg)
 
 [![yin2hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=yin2hao&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
