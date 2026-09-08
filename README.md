@@ -25,20 +25,30 @@ Java backend learner and builder. I like making projects run first, then turning
 | Project | Direction | What it shows |
 | --- | --- | --- |
 | [gas-analysis](https://github.com/yin2hao/gas) | Java  | Reading and organizing business-heavy backend code |
-| [explosion-proof-inspecion-instrument-system](https://github.com/yin2hao/explosion-proof-inspecion-instrument-system) | Java | none |
-| [RJGCYJS_KeTangPai](https://github.com/CQUT-OpenProject/RJGCYJS_KeTangPai) | Java React | none |
-| [Myvideos-TS](https://github.com/yin2hao-Myvideos/Myvideos-TS) | Java React | none |
+| [explosion-proof-inspecion-instrument-system](https://github.com/yin2hao/explosion-proof-inspecion-instrument-system) | Java | Web and Android inspection workflows with task and sample management, OCR, and offline sync |
+| [RJGCYJS_KeTangPai](https://github.com/CQUT-OpenProject/RJGCYJS_KeTangPai) | Java React | Classroom-style course management for assignments, grading, learning materials, and teacher-student workflows |
+| [Myvideos-TS](https://github.com/yin2hao-Myvideos/Myvideos-TS) | Java React | Encrypted video, novel, and comic backups with resumable uploads, private object storage, and a Tauri desktop client |
 
 
 ## status
 
 I’m currently learning programming and exploring various languages and technologies.
 
-![code](https://wakatime.com/share/@dd5e1faf-83ce-4d2f-8f25-ebf7390ba005/e475975b-2369-47e3-acd0-c26684a21ff5.svg)
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://wakatime.com/share/@dd5e1faf-83ce-4d2f-8f25-ebf7390ba005/e475975b-2369-47e3-acd0-c26684a21ff5.svg" alt="Coding activity" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-psi-flame-kbai5gsr3r.vercel.app/api/top-langs/?username=yin2hao&amp;hide_title=true" alt="Top languages in my projects" width="100%" />
+      </a>
+      <br />
+      <sub>Top language in my project</sub>
+    </td>
+  </tr>
+</table>
 
-Top language in my project
-
-[![Top Langs](https://github-readme-stats-psi-flame-kbai5gsr3r.vercel.app/api/top-langs/?username=yin2hao&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@dd5e1faf-83ce-4d2f-8f25-ebf7390ba005/33646d81-a130-4d68-88e5-22e7385c6d08.png" /></a>
+<a href="https://wakatime.com">
+  <img src="https://wakatime.com/share/@dd5e1faf-83ce-4d2f-8f25-ebf7390ba005/33646d81-a130-4d68-88e5-22e7385c6d08.png" alt="WakaTime activity" width="100%" />
+</a>
