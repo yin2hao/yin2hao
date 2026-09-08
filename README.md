@@ -37,13 +37,17 @@ I’m currently learning programming and exploring various languages and technol
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://wakatime.com/share/@dd5e1faf-83ce-4d2f-8f25-ebf7390ba005/e475975b-2369-47e3-acd0-c26684a21ff5.svg" alt="Coding activity" width="100%" />
+      <a>
+        <img src="https://wakatime.com/share/@dd5e1faf-83ce-4d2f-8f25-ebf7390ba005/e475975b-2369-47e3-acd0-c26684a21ff5.svg" alt="Coding activity" width="100%" />
+      </a>
+      <br/>
+      <sub>my coding time</sub>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats-psi-flame-kbai5gsr3r.vercel.app/api/top-langs/?username=yin2hao&amp;hide_title=true" alt="Top languages in my projects" width="100%" />
       </a>
-      <br />
+      <br/>
       <sub>Top language in my project</sub>
     </td>
   </tr>
