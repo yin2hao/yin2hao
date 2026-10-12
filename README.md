@@ -28,6 +28,7 @@ Java backend learner and builder. I like making projects run first, then turning
 | [explosion-proof-inspecion-instrument-system](https://github.com/yin2hao/explosion-proof-inspecion-instrument-system) | Java | Web and Android inspection workflows with task and sample management, OCR, and offline sync |
 | [RJGCYJS_KeTangPai](https://github.com/CQUT-OpenProject/RJGCYJS_KeTangPai) | Java React | Classroom-style course management for assignments, grading, learning materials, and teacher-student workflows |
 | [Myvideos-TS](https://github.com/yin2hao-Myvideos/Myvideos-TS) | Java React | Encrypted video, novel, and comic backups with resumable uploads, private object storage, and a Tauri desktop client |
+| TimeTable | Java Vue | A class schedule app built for students of cqut, which extends the functionality of the official timetable and has achieved over 40,000 daily visits. |
 
 
 ## status
